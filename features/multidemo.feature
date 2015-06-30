@@ -8,5 +8,5 @@ Feature: Multi demo
     And "User2" starts session
     And "User3" starts session
     Then "User1" visits "/wiki/Main_Page"
-    And "User2" visits "http://habr.ru"
-    And "User3" visits "http://www.veeam.com"
+    And "User2" visits "http://google.com"
+    And "User3" visits "http://github.com"
